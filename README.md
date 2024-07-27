@@ -1,4 +1,4 @@
-# Project-AlgoHunt
+# Project-CodeMaster
 Group project designed to help students in their problem solving journey.
 
 
