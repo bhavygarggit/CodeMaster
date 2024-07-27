@@ -1,0 +1,33 @@
+.app-heading {
+	font-weight: 500;
+	color: #343a40;
+	font-size: 75px;
+	font-family: Ashley;
+	
+}
+.App {
+	position: absolute;
+	height: 100vh;
+	width: 100vw;
+	transition: all 0.3s ease-in-out;
+}
+.dark {
+	background-image: url("dark.gif");
+    background-size: cover;
+
+	background-color: #151515df;
+	color: rgb(255, 255, 255);
+}
+
+@media screen and (max-width: 480px) {
+	.app-heading {
+		font-size: 30px;
+	}
+	.app-heading2 {
+		font-size: 20px;
+	}
+}
+
+.emojiFix {
+	font-weight: 100 !important;
+}
