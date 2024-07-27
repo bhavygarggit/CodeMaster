@@ -16,7 +16,7 @@ Dependencies 🗃
 
 To Run Locally;
 
-git clone https://github.com/bhavygarggit/Codemaster.git
+git clone https://github.com/bhavygarggit/CodeMaster.git
 
 npm install
 
